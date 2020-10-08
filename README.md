@@ -1,13 +1,8 @@
-# Object Detection and Distance Measurement
-
-[![N|Solid](http://muizzer07.pythonanywhere.com/media/files/YOLO-m-ram-copy_RQByeS4.jpg)](https://pjreddie.com/darknet/yolo/?style=centerme)
-
-
 ## Introduction
  This repo contains object_detection.py which is able to perform the following task -
  - Object detection from live video frame, in any video file or in a image
  - Counting the number of objects in a frame
- - Measuring the distance of object using depth information
+ - Measuring the distance of object using IPM
  - Inferece on Multiple Camera feed at a time
  
 For object detection YOLO-V3 has been used which is able to detect 80 different objects. Some of those are-
