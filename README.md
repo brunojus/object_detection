@@ -47,7 +47,7 @@ However, if you want to run the infeence on a feed of <b>IP Camera </b>, use the
     "rtsp://assigned_name_of_the_camera:assigned_password@camer_ip/"
 ```
 
-You can check the performance on differet weights of YOLO which I have added on google drive and also available in [YOLO](https://pjreddie.com/darknet/yolo/?style=centerme)
+You can check the performance on differet weights of [YOLO](https://pjreddie.com/darknet/yolo/?style=centerme)
 
 For multiple camera support you need to add few codes as follows in app.py-
 
@@ -79,7 +79,5 @@ Depending on how many feed you need, you have to add the two methods in "app.py"
     </div>
     <hr>
 ```
-#### Note: 
-You have to use git-lfs to download the yolov3.weight file. However you can also download it from here [YOLOv3 @ Google-Drive](https://drive.google.com/drive/folders/1nN49gRqt5HvuMptfc0wRVcuLwiNmMD6u?usp=sharing)
-<hr>
+
 
